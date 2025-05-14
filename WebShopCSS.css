@@ -69,6 +69,7 @@ body {
   flex-wrap: wrap;
   gap: 20px;
   margin-top: 30px;
+
 }
 
 .producto {
@@ -118,6 +119,10 @@ body {
   border-radius: 8px;
   overflow: hidden;
   transition: transform 0.3s;
+
+  
+
+
 }
 .product-card:hover {
   transform: scale(1.02);
